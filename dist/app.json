@@ -3,6 +3,7 @@
     "pages/home/index",
     "pages/life/circle",
     "pages/mine/activity",
+    "pages/mine/history",
     "pages/mine/identity",
     "pages/mine/show",
     "pages/mine/speak"

@@ -38,7 +38,7 @@
       <wxc-flex dir="top" main="around" >
         <view class="bottom_item"> <navigator url="identity"><wxc-icon size="30" type="home"></wxc-icon>  名片</navigator></view>
         <view class="bottom_item"><wxc-icon size="30" type="yes"></wxc-icon>  口碑</view>
-        <view class="bottom_item"><wxc-icon size="30" type="right"></wxc-icon>  历史</view>
+        <view class="bottom_item"> <navigator url="history"><wxc-icon size="30" type="right"></wxc-icon>  历史</navigator></view>
       </wxc-flex>
     </view>
   </wxc-flex>

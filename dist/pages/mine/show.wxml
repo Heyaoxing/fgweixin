@@ -46,7 +46,9 @@
                 <view class="bottom_item">
                     <wxc-icon size="30" type="yes" _pid="{{_pid}}"></wxc-icon> 口碑</view>
                 <view class="bottom_item">
-                    <wxc-icon size="30" type="right" _pid="{{_pid}}"></wxc-icon> 历史</view>
+                    <navigator url="history">
+                        <wxc-icon size="30" type="right" _pid="{{_pid}}"></wxc-icon> 历史</navigator>
+                </view>
             </wxc-flex>
         </view>
     </wxc-flex>
