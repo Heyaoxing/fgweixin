@@ -44,7 +44,9 @@
                         <wxc-icon size="30" type="home" _pid="{{_pid}}"></wxc-icon> 名片</navigator>
                 </view>
                 <view class="bottom_item">
-                    <wxc-icon size="30" type="yes" _pid="{{_pid}}"></wxc-icon> 口碑</view>
+                    <navigator url="score">
+                        <wxc-icon size="30" type="yes" _pid="{{_pid}}"></wxc-icon> 口碑</navigator>
+                </view>
                 <view class="bottom_item">
                     <navigator url="history">
                         <wxc-icon size="30" type="right" _pid="{{_pid}}"></wxc-icon> 历史</navigator>

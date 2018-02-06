@@ -5,6 +5,7 @@
     "pages/mine/activity",
     "pages/mine/history",
     "pages/mine/identity",
+    "pages/mine/score",
     "pages/mine/show",
     "pages/mine/speak"
   ],
