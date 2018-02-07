@@ -20,14 +20,14 @@
       </wxc-flex>
     </view>
     <view class="bottom margin_page">
-      <wxc-flex class="wrap" wrap="{{wrap}}">
+      <wxc-flex class="wrap">
         <view><image  class="bottom_item" bindtap="imgYu"  data-src='https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png' src="https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png"/></view>
         <view><image  class="bottom_item" bindtap="imgYu"  data-src='https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png' src="https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png"/></view>
         <view><image  class="bottom_item" bindtap="imgYu"  data-src='https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png' src="https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png"/></view>
       </wxc-flex>
     </view>
      <view class="bottom margin_page">
-      <wxc-flex class="wrap" wrap="{{wrap}}">
+      <wxc-flex class="wrap">
         <view><image  class="bottom_item" bindtap="imgYu"  data-src='https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png' src="https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png"/></view>
         <view><image  class="bottom_item" bindtap="imgYu"  data-src='https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png' src="https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png"/></view>
         <view><image  class="bottom_item" bindtap="imgYu"  data-src='https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png' src="https://s10.mogucdn.com/mlcdn/c45406/171116_3a30h33df8cj7f651al68hdh7bki7_528x528.png"/></view>
